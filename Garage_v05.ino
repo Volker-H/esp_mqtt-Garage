@@ -1,5 +1,6 @@
 //
 // Garagensteuerung + Temp per MQTT
+// Author Volker Hegemann 2016
 //
 // verwendete Topics:
 //	garage/open					garage/connected (yes)			garage/humid
